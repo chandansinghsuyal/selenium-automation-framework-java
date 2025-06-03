@@ -1,0 +1,13 @@
+[Excel Sheet: RegisterData]
+| FirstName | LastName | Email                | Password  | ConfirmPassword | Gender |
+|-----------|----------|----------------------|-----------|-----------------|--------|
+| Alice     | Smith    | alice1@example.com   | Test@1234 | Test@1234       | female |
+| Bob       | Brown    | bob2@example.com     | Test@1234 | Test@1234       | male   |
+| Carol     | White    | carol3@example.com   | Test@1234 | Test@1234       | female |
+
+[Excel Sheet: CartData]
+| ProductName                  | Quantity |
+|------------------------------|----------|
+| Apple MacBook Pro 13-inch    | 1        |
+| HTC One M8 Android L 5.0     | 2        |
+| Nike Floral Roshe Customized | 3        | 
